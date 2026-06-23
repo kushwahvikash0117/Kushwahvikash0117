@@ -185,7 +185,14 @@ Every commit is a step forward 🚀
 
 <div align="center">
 
-<h3>Thanks for stopping by! ⭐</h3>
-</div>
+### 🚀 Thanks for visiting!
 
-<hr/>
+<i>
+Building secure systems, intelligent solutions, and meaningful products — one project at a time.
+</i>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:3b82f6,100:7e22ce&height=120&section=footer"/>
+
+</div>

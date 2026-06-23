@@ -111,29 +111,27 @@
 
 <div align="center">
 
-<h2>🐍 Contribution Snake</h2>
+<h2>⚡ Contribution Activity ⚡</h2>
 
-<i>Every green square tells a story.</i>
+<sub>
+Building • Learning • Contributing • Repeating
+</sub>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Kushwahvikash0117/Kushwahvikash0117/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/Kushwahvikash0117/Kushwahvikash0117/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+<br><br>
+
+<sub>
+Every commit is a step forward 🚀
+</sub>
 
 </div>
 
 <hr/>
 
-<div align="center">
-
-<h2>🏆 GitHub Trophies</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kushwahvikash0117&theme=radical&no-frame=true&margin-w=8&margin-h=8" />
-
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Analytics ⚡</h2>
 
 <br>
 
@@ -155,50 +153,39 @@
 
 <hr/>
 
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushwahvikash0117&theme=github-compact" />
-</p>
-
-<hr/>
-
-<h2 align="center">📌 What I'm Working On</h2>
-
 <div align="center">
 
-🔹 Strengthening DSA and problem-solving skills
+<h2>📈 Coding Activity</h2>
 
-🔹 Growing the Cyber Security Club at NITJ
-
-🔹 Learning practical AI and Machine Learning
-
-🔹 Contributing more consistently to open source
-
-🔹 Building products that people can actually use
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushwahvikash0117&theme=github-compact" />
 
 </div>
 
 <hr/>
 
-<h2 align="center">🌟 A Few Things About Me</h2>
-
 <div align="center">
 
-🏆 District Topper in Class 10
+<h2>🎯 Current Focus</h2>
 
-🥇 State Topper in Class 12 (2024)
+🛡️ Cyber Security • 🧠 AI/ML • 💻 Full Stack Development • 📚 DSA
 
-🎯 Qualified JEE Mains & JEE Advanced 2024
+<br>
 
-🤝 Enjoy organizing technical events, workshops and hackathons
+<hr/>
 
-📚 Always curious about how things work under the hood
+<h2>🌟 Highlights</h2>
+
+🏆 District Topper (2022) • 🥇 State Topper (2024)
+
+🎯 JEE Mains & Advanced Qualified (2024)
 
 </div>
 
 <hr/>
 
-<h3 align="center">
-Thanks for stopping by! ⭐
-</h3>
+<div align="center">
+
+<h3>Thanks for stopping by! ⭐</h3>
+</div>
+
+<hr/>
